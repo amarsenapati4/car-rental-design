@@ -1,10 +1,10 @@
-# Social
+# car listing design
 
 A social media app made with MERN stack technologies.
 
 ## Screenshot
 
-![alt text](https://postimg.cc/MXv9xR6x)
+![alt text]("https://postimg.cc/MXv9xR6x")
 
 
 
