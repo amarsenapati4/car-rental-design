@@ -2,9 +2,6 @@
 
 A social media app made with MERN stack technologies.
 
-## Screenshot
-
-![alt text](./Screenshot 2023-10-04 150850.png)
 
 
 
